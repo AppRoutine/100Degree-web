@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-android-delete - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Dashboard-V1" transform="translate(-1134.000000, -359.000000)" fill="#1470b1">
+            <g id="Videos-entries" transform="translate(269.000000, 304.000000)">
+                <g id="Row-1">
+                    <path d="M866,65.65625 L866,58 L874,58 L874,65.65625 C874,66.0104184 873.864585,66.3229153 873.59375,66.59375 C873.322915,66.8645847 873.010418,67 872.65625,67 L867.34375,67 C866.989582,67 866.677085,66.8645847 866.40625,66.59375 C866.135415,66.3229153 866,66.0104184 866,65.65625 Z M875,56 L875,57 L865,57 L865,56 L867.5,56 L868.34375,55 L871.65625,55 L872.5,56 L875,56 Z" id="ion-android-delete---Ionicons"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

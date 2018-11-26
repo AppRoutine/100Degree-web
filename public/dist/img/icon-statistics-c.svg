@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-stats-bars - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Dashboard-V1" transform="translate(-1086.000000, -359.000000)" fill="#1470b1">
+            <g id="Videos-entries" transform="translate(269.000000, 304.000000)">
+                <g id="Row-1">
+                    <path d="M820.75,67.75 L820.75,55.25 L823.25,55.25 L823.25,67.75 L820.75,67.75 Z M817,67.75 L817,64 L819.5,64 L819.5,67.75 L817,67.75 Z M824.5,67.75 L824.5,61.5 L827,61.5 L827,67.75 L824.5,67.75 Z M828.25,67.75 L828.25,59 L830.75,59 L830.75,67.75 L828.25,67.75 Z" id="ion-stats-bars---Ionicons"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

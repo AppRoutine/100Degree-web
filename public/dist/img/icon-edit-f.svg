@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-edit - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Dashboard-V1" transform="translate(-1057.000000, -318.000000)" fill="#1470b1">
+            <g id="Videos-entries" transform="translate(269.000000, 284.000000)">
+                <g id="Row-1">
+                    <path d="M799.162109,39.4121094 L791.837891,46.765625 L789.171875,44.0996094 L796.525391,36.7753906 L799.162109,39.4121094 Z M800.890625,36.453125 C801.066407,36.6289071 801.149414,36.8437487 801.139648,37.0976562 C801.129883,37.3515638 801.027345,37.5761709 800.832031,37.7714844 L799.513672,39.0898438 L796.847656,36.4238281 L798.166016,35.1054688 C798.361329,34.9101553 798.585936,34.8076172 798.839844,34.7978516 C799.093751,34.7880859 799.308593,34.8710929 799.484375,35.046875 L800.890625,36.453125 Z M788.9375,44.5097656 L791.427734,47 L788,47.9375 L788.9375,44.5097656 Z" id="ion-edit---Ionicons"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

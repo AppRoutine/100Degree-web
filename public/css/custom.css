@@ -1,0 +1,230 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+
+body.main-wrapper {
+    background: #f5f5f5;
+    position: relative;
+    height: 100vh;
+    width: auto;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400;
+    color: #444;
+}
+
+.login-wrapper {
+    background: #fff;
+    max-width: 330px;
+    max-height: 350px;
+    padding: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+}
+
+.login-wrapper .login-wrapper-inner {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.contact-form-group {
+  	margin-bottom: 20px;
+}
+.rightBar .col-sm-6.padR0{
+	padding-right: 0px;
+}
+
+.contact-form-control {
+	display: block;
+	width: 93%;
+	font-size: 16px;
+	border: 0;
+	color: #444;
+	padding: 12px 10px;
+	outline: none;
+	border: 1px solid #c5c5c5;
+	-webkit-transition: border-color 120ms ease;
+	-moz-transition: border-color 120ms ease;
+	transition: border-color 120ms ease;
+	background:none;
+}
+
+
+.contact-form .contact-form-btn {
+    display: block;
+    background: #317abe;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-size: 14px;
+    transition: all ease .3s;
+    width: 130px;
+    line-height: 37px;
+    margin:0 17px;
+}
+
+.contact-form .contact-form-btn:hover,
+.contact-form .contact-form-btn:focus {
+    background: #c2348b;
+    transition: 0.5s;
+}
+
+.contact-form-group .text-primary{
+  color:red;
+}
+
+.submit-login {
+	border: none;
+	padding: 10px 35px;
+	font-size: 17px;
+	border-radius: 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	cursor: pointer;
+	-webkit-transition: all ease-in-out 0.3s;
+	-moz-transition: all ease-in-out 0.3s;
+	transition: all ease-in-out 0.3s;
+	color: #fff;
+	background: #20c882;
+}
+
+.submit-login:hover,
+.submit-login:focus {
+	outline: none;
+	background: #1470b1;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.login-wrapper .forgot{
+	color: #1669b4;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.forgot-wrapper p {
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.forgot-wrapper .member {
+    color: #444;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.forgot-wrapper .member a {
+	text-decoration: none;
+	color: #1669b4;
+	font-size: 16px;
+}
+.forgot-wrapper .member a:hover,
+.forgot-wrapper .member a:focus {
+	text-decoration: none;
+}
+
+.forgot-wrapper {
+	max-height: 300px;
+}
+
+.error-msg {
+	color: red;
+	font-size: 15px;
+	margin-top: 5px;
+}
+
+span#emailInfo,
+span#passwordInfo {
+    color: #e20404;
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.input-red {
+	border-bottom: #e20404;
+}
+
+.err {
+	margin-bottom: 0;
+}
+
+.login-wrapper-inner img {
+	width: 200px;
+}
+
+.form-check input {
+	position: absolute;
+	opacity: 0;
+	width: 0.5px;
+	height: 0.5px;
+}
+
+.form-check input + label i {
+	width: 15px;
+    height: 15px;
+    position: relative;
+    border: solid 1px #c5c5c5;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.form-check input:checked + label i {
+	 border: solid 1px #779c5d;
+}
+.form-check input:checked + label i:after  {
+	 content: '\f00c';
+    color: #779c5d;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: absolute;
+    top: 0px;
+    font-size: 16px;
+    left: 0;
+}
+
+.form-check label {
+	font-size: 16px;
+	color: #555;
+}
+
+.cpassword {
+    height: 280px;
+}
+
+
+@media (max-width: 767px) {
+	.login-wrapper {
+	    padding: 30px 30px;
+	}
+	
+	.forgot-wrapper {
+		display: table;
+	}
+
+	body.main-wrapper {
+    	margin: 0px 15px;
+	}
+}
